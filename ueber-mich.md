@@ -15,6 +15,7 @@ date_gmt: '2016-01-06 00:35:32 +0100'
 categories: []
 tags: []
 comments: []
+weight: 1
 ---
 <p>&nbsp;</p>
 <p><img class="alignnone size-full wp-image-63" src="http:&#47;&#47;www.ninemedicines.de&#47;wp-content&#47;uploads&#47;89.jpg" alt="89" width="100" height="133" &#47;></p>

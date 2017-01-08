@@ -17,12 +17,13 @@ date_gmt: '2016-01-06 00:40:33 +0100'
 categories: []
 tags: []
 comments: []
+weight: 4
 ---
 <p>Herrausgeber</p>
 <p>Christiane Uhlich<br />
-Bergiusstr. 33<br />
-28357 Bremen<br />
-nine at ninemedicines dot de</p>
+LimmerStr. 79<br />
+30451 Hannover<br />
+info@ninemedicines.de</p>
 <p>Rechtliche Hinweise</p>
 <p>1. Inhalt des Onlineangebotes<br />
 Der Herausgeber &uuml;bernimmt keinerlei Gew&auml;hr f&uuml;r die Aktualit&auml;t, Korrektheit, Vollst&auml;ndigkeit oder Qualit&auml;t der bereitgestellten Informationen. Haftungsanspr&uuml;che gegen den Herausgeber, welche sich auf Sch&auml;den materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und unvollst&auml;ndiger Informationen verursacht worden sind grunds&auml;tzlich ausgeschlossen, sofern seitens des Herausgebers kein nachweislich vors&auml;tzliches oder grob fahrl&auml;ssiges Verschulden vorliegt. Alle Angebote sind freibleibend und unverbindlich. Der Herausgeber beh&auml;lt es sich ausdr&uuml;cklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ank&uuml;ndigung zu ver&auml;ndern, zu erg&auml;nzen, zu l&ouml;schen oder die Ver&ouml;ffentlichung zeitweise oder endg&uuml;ltig einzustellen.</p>
