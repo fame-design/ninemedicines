@@ -3,8 +3,11 @@ GEM
   specs:
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
+    autoprefixer-rails (6.6.1)
+      execjs
     colorator (1.1.0)
     concurrent-ruby (1.0.4)
+    execjs (2.7.0)
     extras (0.1.0)
       forwardable-extended (~> 2.5)
     fastimage (2.0.1)
@@ -61,10 +64,12 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  autoprefixer-rails
   jekyll (= 3.3.1)
   jekyll-assets
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
+  sass
 
 RUBY VERSION
    ruby 2.3.1p112
