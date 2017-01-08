@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: "Ueber mich"
+title: "Über mich"
 author:
   display_name: nine
   login: nine
