@@ -21,6 +21,6 @@ weight: 3
 ---
 Als Heilpraktikerin arbeite ich zur Zeit in Pucallpa &#47; Peru in einem Gesundheitsprojekt f&uuml;r Shipibo Indianer. Das mache ich zusammen mit einer Shipiba, die in traditioneller Pflanzenheilkunde ausgebildet ist. Diese erg&auml;nzt sich gut mit der Hom&ouml;opathie und meiner Heilpraktikerausbildung.
 
-<img src="assets/pictures/nws_portrait_14_web.jpg" />
+{% img pictures/nws_portrait_14_web alt:'Christiane Uhlich' %}
 
 Ich habe den ersten, zweiten und dritten Grad in Reiki, eine Ausbildung in Klangschalentherapie, in Astrologie und in Hom&ouml;opathie. Mit der Hom&ouml;opathie arbeite ich derzeit haupts&auml;chlich.
