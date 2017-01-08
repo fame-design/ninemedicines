@@ -17,6 +17,7 @@ date_gmt: '2016-01-06 00:40:33 +0100'
 categories: []
 tags: []
 comments: []
+weight: 4
 ---
 <p>Herrausgeber</p>
 <p>Christiane Uhlich<br />
