@@ -24,12 +24,14 @@ Die Arbeit einer Hebamme in der Schwangerschaft besteht aus Vorsorgen, oft im We
 
 Ich biete regul&auml;re Schwangerschaftsvorsorgen an, helfe bei Schwangerschaftsbeschwerden, und stehe f&uuml;r alle Fragen, die auftauchen zur Verf&uuml;gung.
 
-<img src="assets/pictures/p1010652.jpg" />
+{% img pictures/p1010652 alt:'glass sphere' %}
+
 ## Geburt
 Da ich meist nicht l&auml;nger als ein halbes Jahr in Deutschland bin, betreue ich zur Zeit keine Hausgeburten mehr. Bitte wenden Sie sich an meine Kolleginnen in Hannover.
+
 ## Wochenbett
 Die erste Zeit im Wochenbett ist besonders beim ersten Kind von vielen Fragen begleitet. Als Hebamme komme ich anfangs jeden Tag, schaue mir Mutter und Kind an, &nbsp;berate und helfe beim Stillen und bei eventuellen Schwierigkeiten im Wochenbett. Begleitend nutze ich meine Kenntnisse der Hom&ouml;opathie und Naturheilkunde.
 
 Auch &uuml;ber diese Zeit hinaus werde ich um Hilfe gebeten, die meisten Leistungen einer Hebamme werden von den Krankenkassen &uuml;bernommen wenn eine &Uuml;berweisung des Arztes vorliegt.
 
-<img src="assets/pictures/p1010896.jpg" />
+{% img pictures/p1010896 alt:'tipi entrance' %}
