@@ -17,6 +17,7 @@ date_gmt: '2016-01-06 00:18:36 +0100'
 categories: []
 tags: []
 comments: []
+weight: 2
 ---
 <p>Schwangerschaft</p>
 <p>Die Arbeit einer Hebamme in der Schwangerschaft besteht aus Vorsorgen, oft im Wechsel mit dem betreuenden Gyn&auml;kologen, allgemeiner gesundheitlicher Beratung, individuellen Gespr&auml;chen bei Schwierigkeiten. &nbsp;Sie kann ihr Dinge erkl&auml;ren die vielleicht beim Arztbesuch nicht zur Sprache gekommen sind, sie kann schwierige, aussergew&ouml;hnliche und auch v&ouml;llig normale Schwangerschaften begleiten.</p>
