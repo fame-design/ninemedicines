@@ -19,9 +19,8 @@ tags: []
 comments: []
 weight: 3
 ---
-<p>&nbsp;</p>
-<p>Als Heilpraktikerin arbeite ich zur Zeit in Pucallpa &#47; Peru in einem Gesundheitsprojekt f&uuml;r Shipibo Indianer. Das mache ich zusammen mit einer Shipiba, die in traditioneller Pflanzenheilkunde ausgebildet ist. Diese erg&auml;nzt sich gut mit der Hom&ouml;opathie und meiner Heilpraktikerausbildung.<img class="aligncenter wp-image-19 size-full" src="http:&#47;&#47;ninemedicines.de&#47;wp-content&#47;uploads&#47;nws_portrait_14_web.jpg" alt="nws_portrait_14_web" width="473" height="709" &#47;></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>Ich habe den ersten, zweiten und dritten Grad in Reiki, eine Ausbildung in Klangschalentherapie, in Astrologie und in Hom&ouml;opathie. Mit der Hom&ouml;opathie arbeite ich derzeit haupts&auml;chlich.</p>
-<p>&nbsp;</p>
+Als Heilpraktikerin arbeite ich zur Zeit in Pucallpa &#47; Peru in einem Gesundheitsprojekt f&uuml;r Shipibo Indianer. Das mache ich zusammen mit einer Shipiba, die in traditioneller Pflanzenheilkunde ausgebildet ist. Diese erg&auml;nzt sich gut mit der Hom&ouml;opathie und meiner Heilpraktikerausbildung.
+
+<img src="assets/pictures/nws_portrait_14_web.jpg" />
+
+Ich habe den ersten, zweiten und dritten Grad in Reiki, eine Ausbildung in Klangschalentherapie, in Astrologie und in Hom&ouml;opathie. Mit der Hom&ouml;opathie arbeite ich derzeit haupts&auml;chlich.
