@@ -1,3 +1,38 @@
+body{
+  background-color: $background-color;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: $black;
+  text-decoration: none;
+
+  &:active,
+  &:hover,
+  &:visited {
+    color: $dark-gray;
+  }
+}
+
 img {
   height: auto;
+}
+
+.page-wrapper {
+  min-height: 100%;
+  padding: 0 0 100px;
+  position: relative;
+}
+
+.content-wrapper {
+  max-width: $content-width;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 100%;
+
+  background: $sandy;
+  padding: 10px;
 }
