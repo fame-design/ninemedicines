@@ -32,7 +32,10 @@ img {
   margin-top: 10px;
   margin-bottom: 10px;
   height: 100%;
-
   background: $sandy;
   padding: 10px;
+
+  @include media-query($on-laptop) {
+    margin-top: 0px;
+  }
 }
