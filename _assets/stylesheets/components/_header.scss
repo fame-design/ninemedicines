@@ -1,6 +1,6 @@
 .site-header {
 
-  height: 226px;
+  height: 210px;
 
   .header-wrapper{
     @include media-query($on-laptop) {
@@ -37,12 +37,32 @@
     }
   }
 
+  .nav-wrapper{
+    @media screen and (min-width: 800px){
+      width: $content-width;
+      text-align: center;
+      margin: 0 auto;
+    }
+  }
+
   .site-nav {
-    line-height: 56px;
+    line-height: 40px;
     float: none;
     text-align: center;
+    @media screen and (min-width: 800px){
+      /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e5c28e+0,b78254+50,9e6f44+51,d1a768+100 */
+      background: linear-gradient(to bottom, rgba(229,194,142,1) 0%,rgba(183,130,84,1) 50%,rgba(158,111,68,1) 51%,rgba(209,167,104,1) 100%);
+    }
     @include media-query($on-laptop) {
+      line-height: 56px;
       float: right;
+    }
+    @include media-query($on-palm) {
+      background-color: #e8ba73;
+      border: 1px solid rgb(167, 130, 85);
+      .page-link {
+        margin-left: 0px;
+      }
     }
   }
 
