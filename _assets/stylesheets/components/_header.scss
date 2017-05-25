@@ -1,0 +1,90 @@
+.site-header {
+
+  height: 210px;
+
+  .header-wrapper{
+    @include media-query($on-laptop) {
+      max-width: $content-width;
+      margin: 0 auto;
+      padding-left: $space;
+      padding-right: $space;
+    }
+  }
+
+  .header-logo{
+    float: left;
+  }
+
+  .site-title-wrapper{
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0c5c91+0,146497+3,216999+6,84acc6+35,8dafc8+36,92b4cd+37,9ab9cd+38,abc6d9+41,b3c9d7+42,c6d8e4+45,cedbe4+46,d4e1ea+47,e0e9f0+49,e9edf0+51,fbfbfb+54,7d5e4a+55,482915+56,7d5428+57,b99064+58,ddaf73+59,eec084+60,faca88+61,fece8c+62,fccd89+63,dfae74+69,cea065+72,ca9b65+73,c4955f+74,996a40+83,8a5a32+86,794b29+89,58290d+96,7e3b10+98,7e3b10+98,955227+99,955227+99,b96427+100 */
+    background: linear-gradient(to bottom, #0c5c91 0%,#146497 3%,#216999 6%,#84acc6 35%,#8dafc8 36%,#92b4cd 37%,#9ab9cd 38%,#abc6d9 41%,#b3c9d7 42%,#c6d8e4 45%,#cedbe4 46%,#d4e1ea 47%,#e0e9f0 49%,#e9edf0 51%,#fbfbfb 54%,#7d5e4a 55%,#482915 56%,#7d5428 57%,#b99064 58%,#ddaf73 59%,#eec084 60%,#faca88 61%,#fece8c 62%,#fccd89 63%,#dfae74 69%,#cea065 72%,#ca9b65 73%,#c4955f 74%,#996a40 83%,#8a5a32 86%,#794b29 89%,#58290d 96%,#7e3b10 98%,#7e3b10 98%,#955227 99%,#955227 99%,#b96427 100%);
+    height: 170px;
+    float: none;
+    text-align: center;
+
+    @include media-query($on-laptop) {
+      height: 56px;
+      float: left;
+      background: rgba(0,0,0,0);
+    }
+
+    .site-title{
+      font-family: PurisaBold;
+      font-size: 250%;
+      float: none;
+      text-align: center;
+      line-height: 160px;
+      text-decoration: none;
+
+      @include media-query($on-laptop) {
+        line-height: 56px;
+        font-size: 150%;
+      }
+    }
+  }
+
+  .nav-wrapper{
+    @media screen and (min-width: 801px){
+      width: $content-width;
+      text-align: center;
+      margin: 0 auto;
+    }
+  }
+
+  .site-nav {
+    line-height: 40px;
+    float: none;
+    text-align: center;
+    border-radius: 10px;
+    @media screen and (min-width: 801px){
+      /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#e5c18d+0,a37347+59,d0a667+100 */
+      background: linear-gradient(to bottom, #e5c18d 0%,#a37347 59%,#d0a667 100%);
+    }
+    @include media-query($on-laptop) {
+      line-height: 56px;
+      float: right;
+      .page-link:not(:last-child) {
+        margin-right: 5px;
+      }
+    }
+    @include media-query($on-palm) {
+      background-color: #e8ba73;
+      border: 1px solid rgb(167, 130, 85);
+      .page-link {
+        margin-left: 0px;
+      }
+      .page-link:not(:last-child) {
+        margin-right: 0px;
+      }
+    }
+  }
+
+  @include media-query($on-laptop) {
+    height: 56px;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#176496+0,1c6798+3,2b709e+8,6597b8+25,81aac4+33,b6ccda+43,c4d2db+46,c9d2d7+47,cdccc9+50,cdb79d+56,d1b28d+58,ddb27d+63,dfb076+67,d8a86f+70,cc9d66+73,96673d+84,84532d+89,804a23+93,864a20+98,b96427+100 */
+    background: linear-gradient(to bottom, rgba(23,100,150,1) 0%,rgba(28,103,152,1) 3%,rgba(43,112,158,1) 8%,rgba(101,151,184,1) 25%,rgba(129,170,196,1) 33%,rgba(182,204,218,1) 43%,rgba(196,210,219,1) 46%,rgba(201,210,215,1) 47%,rgba(205,204,201,1) 50%,rgba(205,183,157,1) 56%,rgba(209,178,141,1) 58%,rgba(221,178,125,1) 63%,rgba(223,176,118,1) 67%,rgba(216,168,111,1) 70%,rgba(204,157,102,1) 73%,rgba(150,103,61,1) 84%,rgba(132,83,45,1) 89%,rgba(128,74,35,1) 93%,rgba(134,74,32,1) 98%,rgba(185,100,39,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+
+  }
+  border: 0px;
+
+}

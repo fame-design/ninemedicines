@@ -29,4 +29,11 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-assets
 exclude: [Gemfile, Gemfile.lock, README.md]
+assets:
+  sources:
+    - _assets/fonts
+    - _assets/images
+    - _assets/javascripts
+    - _assets/stylesheets

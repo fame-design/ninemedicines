@@ -1,3 +1,43 @@
+body{
+  background-color: $background-color;
+  font-family: Purisa;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: $black;
+
+  &:active,
+  &:hover,
+  &:visited {
+    color: $dark-gray;
+  }
+}
+
 img {
   height: auto;
+}
+
+.page-wrapper {
+  min-height: 100%;
+  padding: 0 0 100px;
+  position: relative;
+}
+
+.content-wrapper {
+  max-width: calc(#{$content-width} - (#{$space} * 2));
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  height: 100%;
+  background: $sandy;
+  padding: 10px;
+  border-radius: 10px;
+
+  @include media-query($on-laptop) {
+    margin-top: 0px;
+    border-radius: 0px;
+  }
 }
